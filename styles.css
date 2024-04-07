@@ -6,10 +6,8 @@
     object-fit: cover;
     border-radius: 5px;
     margin-bottom: 10px;
-  }
-.row {
-	display: flex;
-}
-img {
 	margin:1px;
+  }
+.container-fluid {
+	display: flex;
 }
