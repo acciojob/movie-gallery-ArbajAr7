@@ -1,2 +1,15 @@
 
 /* Your CSS Code here. */
+.gallery-img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+.row {
+	display: flex;
+}
+img {
+	margin:1px;
+}
